@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ *  Name: Yulin Tong
+ *  Email: ytong46@wisc.edu
+ *  CS account username: ytong46
  */
 import java.util.*;
 
