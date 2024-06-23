@@ -41,3 +41,4 @@ public class Color{
 		return false;
 	}
 }
+
